@@ -1,2 +1,3 @@
 # AravindS7.github.io
 My first day at Fablab...
+Got introduced to all the machines provided, will begin the projects shortly.
